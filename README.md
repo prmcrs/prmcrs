@@ -16,4 +16,9 @@
 
 ### 📫 Reach me at: prmcrs@roadmap.sh
 
-
+ _________________________________________
+< Thanks for visiting my GitHub profile! >
+ ----------------------------------------- 
+      /\_/\  
+     ( ^ . ^)  <  Hi there!
+      >   <  

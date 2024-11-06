@@ -2,7 +2,7 @@
 
 - 🤖 I have a passion for computer systems and love learning how they work.
 - 💻 Constantly exploring new technologies and expanding my skill set.
-- 🤝 Open to collaborating on projects, especially those related to machine learning and areas I'm yet to discover.
+- 🤝 Open to collaborating on projects, especially those related into AI and areas I'm yet to discover.
 - 🌟 In my free time, I enjoy restoring my classic car from the '80s.
 
 ### About Me:

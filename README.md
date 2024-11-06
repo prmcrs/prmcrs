@@ -21,7 +21,7 @@
 < Thanks for visiting my GitHub profile! >
  ----------------------------------------- 
       /\_/\  
-     ( ^ . ^)  <  Hi there!
+     ( ^.^ )  <  Hi there!
       >   <  
 
 ```

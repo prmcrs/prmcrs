@@ -8,7 +8,6 @@
 ### About Me:
 - 🏫 Currently a student at [@UNLZ](https://www.unlz.edu.ar/)
 - 👀 Interested in helping students and self-taught developers achieve their goals!
-- 🌱 Just beginning my journey into content creation.
 - 🌟 Main languages: Python, C#, SQL
 - 💻 Currently working as a Software Developer
 - 🎸 Music fan, especially rock!

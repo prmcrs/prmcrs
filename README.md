@@ -6,10 +6,10 @@
 - 🌟 In my free time, I enjoy restoring my classic car from the '80s.
 
 ### About Me:
-- 🏫 Currently a student at [@UNLZ](https://www.unlz.edu.ar/)
+- 🎓 Graduated with a Bachelor's degree from Universidad Nacional de Lomas de Zamora [@UNLZ](https://www.unlz.edu.ar/)
 - 👀 Interested in helping students and self-taught developers achieve their goals!
-- 🌟 Main languages: Python, C#, SQL
-- 💻 Currently working as a Software Developer
+- 🌟 Main technologies: Python, C#, SQL, Node.js, .NET
+- 💻 Currently working in Web & API Development, focused on building, maintaining, and modernizing software applications.
 - 🎸 Music fan, especially rock!
 - 🍕 Foodie at heart: pizza and burgers lover!
 

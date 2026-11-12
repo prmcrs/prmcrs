@@ -1,19 +1,25 @@
-# 👋 Hi, I’m Pablo!
+# 👋 Hi, I'm Pablo!
 
-- 🤖 I have a passion for computer systems and love learning how they work.
-- 💻 Constantly exploring new technologies and expanding my skill set.
-- 🤝 Open to collaborating on projects, especially those related into AI and areas I'm yet to discover.
-- 🌟 In my free time, I enjoy restoring my classic car from the '80s.
+- 💻 Software Engineer with 18+ years in the IT world.
+- 🤖 Passionate about computer systems, software development, and understanding how things work.
+- 🚀 Always exploring new technologies, AI, and automation.
+- 🤝 Open to collaboration, knowledge sharing, and helping fellow developers.
+- 🕹️ Retro computing enthusiast, bringing vintage hardware and forgotten software back to life.
+- 🚗 Classic car enthusiast, restoring a car from the '80s.
 
-### About Me:
-- 🎓 Graduated with a Bachelor's degree from Universidad Nacional de Lomas de Zamora [@UNLZ](https://www.unlz.edu.ar/)
-- 👀 Interested in helping students and self-taught developers achieve their goals!
-- 🌟 Main technologies: Python, C#, SQL, Node.js, .NET
-- 💻 Currently working in Web & API Development, focused on building, maintaining, and modernizing software applications.
-- 🎸 Music fan, especially rock!
-- 🍕 Foodie at heart: pizza and burgers lover!
+### About Me
 
-### 📫 Reach me at: prmcrs@roadmap.sh
+- 🎓 Bachelor's degree in Information Management from [@UNLZ](https://www.unlz.edu.ar/).
+- 🏢 Working in IT Management, Software Engineering, and Enterprise Application Development.
+- ⚙️ Main technologies: C#, .NET, SQL Server, Python, JavaScript, Node.js.
+- 🛠️ Interested in infrastructure, virtualization, DevOps, and system integration.
+- 💾 Enjoy developing software for vintage computers, MS-DOS, BlackBerry, and Palm OS.
+- 🌐 Creator of [Computerland](https://computerland.com.ar), my corner of the internet for computers, projects, and experiments.
+- 🎸 Rock music lover.
+- 🍕 Pizza and burgers enthusiast!
+
+
+### 📫 Reach me at: primo@mailo.com
 
 ```
  _________________________________________

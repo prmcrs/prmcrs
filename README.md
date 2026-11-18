@@ -19,7 +19,7 @@
 - 🍕 Pizza and burgers enthusiast!
 
 
-### 📫 Reach me at: primo@mailo.com
+### 📫 Reach me at: primo(at)mailo.com
 
 ```
  _________________________________________
